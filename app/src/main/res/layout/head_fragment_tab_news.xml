@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+    <!-- 广告位置 -->
+
+    <include layout="@layout/item_list_news_header"/>
+    <!-- 广告位UI结束 -->
+
+</LinearLayout>
